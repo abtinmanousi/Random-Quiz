@@ -1,0 +1,21 @@
+body {
+    width: 800px;
+    margin: auto;
+}
+
+#img {
+    width: 400px;
+}
+
+#hr {
+    width: 700px;
+}
+
+#div {
+    background-color: lightcyan;
+    padding: 10px 25px;
+}
+
+.p {
+    color: red;
+}
